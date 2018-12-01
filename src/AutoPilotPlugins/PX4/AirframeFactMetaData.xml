@@ -374,6 +374,15 @@
       <maintainer>Henry Zhang &lt;zhanghui629@gmail.com&gt;</maintainer>
       <type>Quadrotor x</type>
     </airframe>
+    <airframe id="4250" maintainer="Alex Klimaj &lt;alex.klimaj@tealdrones.com&gt;" name="Teal One">
+      <class>Copter</class>
+      <maintainer>Alex Klimaj &lt;alex.klimaj@tealdrones.com&gt;</maintainer>
+      <type>Quadrotor x</type>
+      <output name="MAIN1">motor 1</output>
+      <output name="MAIN2">motor 2</output>
+      <output name="MAIN3">motor 3</output>
+      <output name="MAIN4">motor 4</output>
+    </airframe>
     <airframe id="4900" maintainer="Dennis Shtatov &lt;densht@gmail.com&gt;" name="Crazyflie 2.0">
       <class>Copter</class>
       <maintainer>Dennis Shtatov &lt;densht@gmail.com&gt;</maintainer>
@@ -535,7 +544,7 @@
       <output name="AUX3">feed-through of RC AUX3 channel</output>
     </airframe>
   </airframe_group>
-  <airframe_group image="AirframeUnknown" name="Plane V-Tail">
+  <airframe_group image="PlaneVTail" name="Plane V-Tail">
     <airframe id="2200" maintainer="Friedrich Beckmann &lt;friedrich.beckmann@hs-augsburg.de&gt;" name="X-UAV Mini Talon">
       <class>Plane</class>
       <maintainer>Friedrich Beckmann &lt;friedrich.beckmann@hs-augsburg.de&gt;</maintainer>
