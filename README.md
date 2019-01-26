@@ -11,3 +11,6 @@ More information regarding QGC can be accessed through links below:
 * [Discussion/Support](https://docs.qgroundcontrol.com/en/Support/Support.html)
 * [Contributing](https://dev.qgroundcontrol.com/en/contribute/)
 * [License](https://github.com/mavlink/qgroundcontrol/blob/master/COPYING.md)
+
+
+# Note: the new repos are now all under: https://github.com/uci-uav-forge
